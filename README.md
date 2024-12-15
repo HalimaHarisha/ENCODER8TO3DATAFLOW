@@ -72,7 +72,9 @@ RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling
 
 TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling
 
-![Screenshot 2024-12-07 182533](https://github.com/user-attachments/assets/9f9a21b0-fa76-4ddb-b62e-a5d06e40c34d)
+
+![Screenshot 2024-12-15 234718](https://github.com/user-attachments/assets/a9af34c6-d489-4f77-a5c8-7b2f02ffa2a8)
+
 
 
 **RESULTS**
