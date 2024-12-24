@@ -64,23 +64,35 @@ Developed by:HALIMA HARISHA A
 
 RegisterNumber:24901005
 
+... 
+module enc(a,b,c,y0,y1,y2,y3,y4,y5,y6,y7);
+input a,b,c;
+output y0,y1,y2,y3,y4,y5,y6,y7; 
+assign a= ( y4 | y5 | y6 | y7);
+assign b= ( y2 | y3 | y6 | y7); 
+assign c= ( y1 | y3 | y5 | y7);
+endmodule
+...
+
 
 
 RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling
 
-![Screenshot 2024-12-07 182511](https://github.com/user-attachments/assets/6de537fc-8af9-491a-a387-ad1406fb900f)
+![Screenshot 2024-12-24 101908](https://github.com/user-attachments/assets/afe0eb85-4dbf-41e5-b0a9-6e2e1b730809)
+
 
 
 TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling
 
 
-![Screenshot 2024-12-15 234718](https://github.com/user-attachments/assets/a9af34c6-d489-4f77-a5c8-7b2f02ffa2a8)
+![Screenshot 2024-12-24 101935](https://github.com/user-attachments/assets/959b670e-8deb-486e-97fa-7b8efa68822d)
 
 
 
-**RESULTS**
+RESULTS 
+    Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
-sucessfully implemented Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functionality using their functional tables.
+
 
 
 
