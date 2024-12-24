@@ -65,6 +65,7 @@ Developed by:HALIMA HARISHA A
 RegisterNumber:24901005
 
 
+
 RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling
 
 ![Screenshot 2024-12-07 182511](https://github.com/user-attachments/assets/6de537fc-8af9-491a-a387-ad1406fb900f)
@@ -79,7 +80,7 @@ TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling
 
 **RESULTS**
 
-sucessfully implemented Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functionality using their functional tables
+sucessfully implemented Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functionality using their functional tables.
 
 
 
